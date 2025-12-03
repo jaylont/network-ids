@@ -36,4 +36,4 @@ sudo python3 test_traffic.py --all
 ## Author
 Jaylon Taylor
 
-Built as part of cybersecurity portfolio.
+Built as part of cybersecurity and machine learning portfolio.
